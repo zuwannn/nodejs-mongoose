@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-mongoose",
+  "version": "1.0.0",
+  "description": "Connect MongoDB to Node.js Using Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuwannn/nodejs-mongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuwannn/nodejs-mongoose/issues"
+  },
+  "homepage": "https://github.com/zuwannn/nodejs-mongoose#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.11"
+  }
+}
